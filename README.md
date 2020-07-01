@@ -17,7 +17,7 @@ The interface of the game looked like this:
 
 ## Europa 2
 
-## The second version mostly entailed thorough refactoring and an interface renewal, including a neat splash screen for new visitors:
+The second version mostly entailed thorough refactoring and an interface renewal, including a neat splash screen for new visitors:
 
 ![Europa 2 splash](img/europa2_splash.gif)
 
