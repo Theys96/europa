@@ -1,0 +1,2 @@
+<table class="rapport"><tr><td>Aanvaller</td><td>Verdediger</td></tr><tr><td></td><td>Finland</td></tr><tr><td>50000</td><td>0</td></tr><tr><td colspan="2"><img align="left" src="../media/bar.png" height="20px" width="94.318637148%" /><br /><img align="right" src="../media/bar.png" height="20px" width="35.0292055436%" /></td></tr><tr><td>50000</td><td>0</td></tr><tr><td colspan="2">De aanvaller heeft gewonnen<br /><br />Finland is nu van thijs (Rusland)</td></tr></table><br /><br />
+

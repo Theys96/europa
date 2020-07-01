@@ -1,0 +1,2 @@
+<table class="rapport"><tr><td>Aanvaller</td><td>Verdediger</td></tr><tr><td>Frankrijk</td><td>Suriname</td></tr><tr><td>60000</td><td>1</td></tr><tr><td colspan="2"><img align="left" src="media/bar.png" height="20px" width="52%" /><br /><img align="right" src="media/bar.png" height="20px" width="40.1%" /></td></tr><tr><td>59999</td><td>0</td></tr><tr><td colspan="2">De aanvaller heeft gewonnen<br /><br />Suriname is nu van thijs (Frankrijk)</td></tr></table><br /><br />
+

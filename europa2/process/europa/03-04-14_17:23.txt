@@ -1,0 +1,11 @@
+<table class='rapport'>
+<tr><td>Aanvaller</td><td>Verdediger</td></tr>
+<tr><td></td><td>Duitsland</td></tr>
+<tr><td>100</td><td>391</td></tr>
+<tr><td colspan='2'><img align='left' src='media/bar.png' height='20px' width='64.5022222991%' /><br /><img align='right' src='media/bar.png' height='20px' width='125.966800388%' /></td></tr>
+<tr><td>0</td><td>326</td></tr>
+<tr><td colspan='2'>
+De verdediger heeft gewonnen.
+</td></tr>
+</table><br /><br />
+

@@ -1,0 +1,2 @@
+<table class="rapport"><tr><td>Aanvaller</td><td>Verdediger</td></tr><tr><td>Turkije</td><td>Rusland</td></tr><tr><td>40000</td><td>30000</td></tr><tr><td colspan="2"><img align="left" src="media/bar.png" height="20px" width="46.7%" /><br /><img align="right" src="media/bar.png" height="20px" width="58.5%" /></td></tr><tr><td>9125</td><td>0</td></tr><tr><td colspan="2">De aanvaller heeft gewonnen<br /><br />Rusland is nu van thijs (Turkije)</td></tr></table><br /><br />
+

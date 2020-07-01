@@ -1,0 +1,48 @@
+<table class='rapport'>
+<tr><td>Aanvaller</td><td>Verdediger</td></tr>
+<tr><td></td><td>Itali&euml;</td></tr>
+<tr><td>100000</td><td>50000</td></tr>
+<tr><td colspan='2'><img align='left' src='media/bar.png' height='20px' width='50.583671052%' /><br /><img align='right' src='media/bar.png' height='20px' width='71.1125033552%' /></td></tr>
+<tr><td>28887</td><td>0</td></tr>
+<tr><td colspan='2'>
+De aanvaller heeft gewonnen<br />
+<br />Itali&euml; is nu van thijs (Frankrijk)
+</td></tr>
+</table><br /><br />
+
+<table class='rapport'>
+<tr><td>Aanvaller</td><td>Verdediger</td></tr>
+<tr><td></td><td>Spanje</td></tr>
+<tr><td>100000</td><td>0</td></tr>
+<tr><td colspan='2'><img align='left' src='media/bar.png' height='20px' width='63.40921106%' /><br /><img align='right' src='media/bar.png' height='20px' width='36.6942712814%' /></td></tr>
+<tr><td>100000</td><td>0</td></tr>
+<tr><td colspan='2'>
+De aanvaller heeft gewonnen<br />
+<br />Spanje is nu van thijs (Frankrijk)
+</td></tr>
+</table><br /><br />
+
+<table class='rapport'>
+<tr><td>Aanvaller</td><td>Verdediger</td></tr>
+<tr><td></td><td>Verenigd Koninkrijk</td></tr>
+<tr><td>100000</td><td>0</td></tr>
+<tr><td colspan='2'><img align='left' src='media/bar.png' height='20px' width='51.6590004363%' /><br /><img align='right' src='media/bar.png' height='20px' width='41.3876410165%' /></td></tr>
+<tr><td>100000</td><td>0</td></tr>
+<tr><td colspan='2'>
+De aanvaller heeft gewonnen<br />
+<br />Verenigd Koninkrijk is nu van thijs (Frankrijk)
+</td></tr>
+</table><br /><br />
+
+<table class='rapport'>
+<tr><td>Aanvaller</td><td>Verdediger</td></tr>
+<tr><td></td><td>Slowakije</td></tr>
+<tr><td>300</td><td>0</td></tr>
+<tr><td colspan='2'><img align='left' src='media/bar.png' height='20px' width='28.0357109486%' /><br /><img align='right' src='media/bar.png' height='20px' width='66.0829074362%' /></td></tr>
+<tr><td>300</td><td>0</td></tr>
+<tr><td colspan='2'>
+De aanvaller heeft gewonnen<br />
+<br />Slowakije is nu van thijs (Polen)
+</td></tr>
+</table><br /><br />
+

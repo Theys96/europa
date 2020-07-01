@@ -1,0 +1,2 @@
+<table class="rapport"><tr><td>Aanvaller</td><td>Verdediger</td></tr><tr><td>Turkije</td><td>Oekra&iuml;ne</td></tr><tr><td>9000</td><td>20000</td></tr><tr><td colspan="2"><img align="left" src="media/bar.png" height="20px" width="75.9%" /><br /><img align="right" src="media/bar.png" height="20px" width="43.4%" /></td></tr><tr><td>0</td><td>9375</td></tr><tr><td colspan="2">De verdediger heeft gewonnen.</td></tr></table><br /><br />
+

@@ -1,0 +1,113 @@
+@font-face {
+font-family: CharlemagneStd-Bold;
+src: url('media/CHARLEMAGNESTD-BOLD.OTF');
+}
+
+body {
+background-color: rgba(255,230,190,1);
+font-family: CharlemagneStd-Bold;
+}
+
+td {
+background-color: rgba(20,50,100,0.3);
+padding: 3px;
+}
+
+a {
+color: black;
+}
+
+#info {
+width: 500px; 
+border: 1px solid black;
+}
+
+#map1 {
+width: 460.8px; 
+height: 404.6px;
+background-color: black;
+}
+
+#players {
+width: 90%; 
+border: 1px solid black; 
+margin-left: auto; 
+margin-right: auto; 
+margin-top: 30px; 
+padding: 10px;
+}
+
+#messages {
+width: 90%; 
+border: 1px solid black; 
+margin-left: auto; 
+margin-right: auto; 
+margin-top: 10px; 
+padding: 10px;
+}
+
+#header {
+width: 90%; 
+border: 1px solid black; 
+margin-left: auto; 
+margin-right: auto; 
+margin-top: 5px; 
+margin-bottom: 5px; 
+padding: 10px;
+border-radius: 10px;
+background-color: rgba(255,240,210,1);
+}
+
+#help {
+width: 90%; 
+border: 1px solid black; 
+margin-left: auto; 
+margin-right: auto; 
+margin-top: 5px; 
+margin-bottom: 5px; 
+padding: 10px;
+border-radius: 10px;
+background-color: rgba(255,240,210,1);
+}
+
+#maptype {
+width: 95%;
+margin-legt: auto;
+margin-right: auto;
+}
+
+td.notable {
+background-color: rgba(20,50,100,0.0);
+vertical-align: top;
+}
+
+.normaltext {
+font-size: 16px;
+font-family: sans-serif;
+}
+
+.rapport {
+width: 500px;
+}
+
+#game {
+margin-legt: auto;
+margin-right: auto;
+}
+
+h2 {
+font-weight: normal;
+text-align: center;
+}
+
+.regionpic {
+width: 400px;
+maxheight: 500px;
+margin-left: auto;
+margin-right: auto;
+}
+
+
+
+
+

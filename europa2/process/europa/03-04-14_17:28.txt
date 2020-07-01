@@ -1,0 +1,96 @@
+<table class='rapport'>
+<tr><td>Aanvaller</td><td>Verdediger</td></tr>
+<tr><td></td><td>Denemarken</td></tr>
+<tr><td>100000</td><td>0</td></tr>
+<tr><td colspan='2'><img align='left' src='media/bar.png' height='20px' width='40.8807114206%' /><br /><img align='right' src='media/bar.png' height='20px' width='52.8888168276%' /></td></tr>
+<tr><td>100000</td><td>0</td></tr>
+<tr><td colspan='2'>
+De aanvaller heeft gewonnen<br />
+<br />Denemarken is nu van thijs (Duitsland)
+</td></tr>
+</table><br /><br />
+
+<table class='rapport'>
+<tr><td>Aanvaller</td><td>Verdediger</td></tr>
+<tr><td></td><td>Tsjechi&euml;</td></tr>
+<tr><td>100000</td><td>0</td></tr>
+<tr><td colspan='2'><img align='left' src='media/bar.png' height='20px' width='59.1427363416%' /><br /><img align='right' src='media/bar.png' height='20px' width='44.4875080766%' /></td></tr>
+<tr><td>100000</td><td>0</td></tr>
+<tr><td colspan='2'>
+De aanvaller heeft gewonnen<br />
+<br />Tsjechi&euml; is nu van thijs (Duitsland)
+</td></tr>
+</table><br /><br />
+
+<table class='rapport'>
+<tr><td>Aanvaller</td><td>Verdediger</td></tr>
+<tr><td></td><td>Oostenrijk</td></tr>
+<tr><td>100000</td><td>0</td></tr>
+<tr><td colspan='2'><img align='left' src='media/bar.png' height='20px' width='28.8657303345%' /><br /><img align='right' src='media/bar.png' height='20px' width='78.0840373029%' /></td></tr>
+<tr><td>100000</td><td>0</td></tr>
+<tr><td colspan='2'>
+De aanvaller heeft gewonnen<br />
+<br />Oostenrijk is nu van thijs (Duitsland)
+</td></tr>
+</table><br /><br />
+
+<table class='rapport'>
+<tr><td>Aanvaller</td><td>Verdediger</td></tr>
+<tr><td></td><td>Zwitserland</td></tr>
+<tr><td>100000</td><td>0</td></tr>
+<tr><td colspan='2'><img align='left' src='media/bar.png' height='20px' width='52.9806718192%' /><br /><img align='right' src='media/bar.png' height='20px' width='51.6798679841%' /></td></tr>
+<tr><td>100000</td><td>0</td></tr>
+<tr><td colspan='2'>
+De aanvaller heeft gewonnen<br />
+<br />Zwitserland is nu van thijs (Duitsland)
+</td></tr>
+</table><br /><br />
+
+<table class='rapport'>
+<tr><td>Aanvaller</td><td>Verdediger</td></tr>
+<tr><td></td><td>Frankrijk</td></tr>
+<tr><td>100000</td><td>0</td></tr>
+<tr><td colspan='2'><img align='left' src='media/bar.png' height='20px' width='59.1427363416%' /><br /><img align='right' src='media/bar.png' height='20px' width='60.3887448345%' /></td></tr>
+<tr><td>100000</td><td>0</td></tr>
+<tr><td colspan='2'>
+De aanvaller heeft gewonnen<br />
+<br />Frankrijk is nu van thijs (Duitsland)
+</td></tr>
+</table><br /><br />
+
+<table class='rapport'>
+<tr><td>Aanvaller</td><td>Verdediger</td></tr>
+<tr><td></td><td>Luxemburg</td></tr>
+<tr><td>100000</td><td>0</td></tr>
+<tr><td colspan='2'><img align='left' src='media/bar.png' height='20px' width='54.3620552613%' /><br /><img align='right' src='media/bar.png' height='20px' width='55.6896815208%' /></td></tr>
+<tr><td>100000</td><td>0</td></tr>
+<tr><td colspan='2'>
+De aanvaller heeft gewonnen<br />
+<br />Luxemburg is nu van thijs (Duitsland)
+</td></tr>
+</table><br /><br />
+
+<table class='rapport'>
+<tr><td>Aanvaller</td><td>Verdediger</td></tr>
+<tr><td></td><td>Belgi&euml;</td></tr>
+<tr><td>100000</td><td>0</td></tr>
+<tr><td colspan='2'><img align='left' src='media/bar.png' height='20px' width='55.9045598937%' /><br /><img align='right' src='media/bar.png' height='20px' width='53.3373913204%' /></td></tr>
+<tr><td>100000</td><td>0</td></tr>
+<tr><td colspan='2'>
+De aanvaller heeft gewonnen<br />
+<br />Belgi&euml; is nu van thijs (Duitsland)
+</td></tr>
+</table><br /><br />
+
+<table class='rapport'>
+<tr><td>Aanvaller</td><td>Verdediger</td></tr>
+<tr><td></td><td>Nederland</td></tr>
+<tr><td>100000</td><td>10</td></tr>
+<tr><td colspan='2'><img align='left' src='media/bar.png' height='20px' width='45.539950932%' /><br /><img align='right' src='media/bar.png' height='20px' width='69.0262215595%' /></td></tr>
+<tr><td>99986</td><td>0</td></tr>
+<tr><td colspan='2'>
+De aanvaller heeft gewonnen<br />
+<br />Nederland is nu van thijs (Duitsland)
+</td></tr>
+</table><br /><br />
+

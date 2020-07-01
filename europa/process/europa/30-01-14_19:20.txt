@@ -1,0 +1,2 @@
+<table class="rapport"><tr><td>Aanvaller</td><td>Verdediger</td></tr><tr><td>Saudi Arabi&euml;</td><td>Egypte</td></tr><tr><td>4003</td><td>1</td></tr><tr><td colspan="2"><img align="left" src="media/bar.png" height="20px" width="13.3%" /><br /><img align="right" src="media/bar.png" height="20px" width="55.2%" /></td></tr><tr><td>4002</td><td>0</td></tr><tr><td colspan="2">De aanvaller heeft gewonnen<br /><br />Egypte is nu van tijn (Saudi Arabi&euml;)</td></tr></table><br /><br />
+

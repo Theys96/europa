@@ -1,0 +1,12 @@
+<table class='rapport'>
+<tr><td>Aanvaller</td><td>Verdediger</td></tr>
+<tr><td></td><td>Zweden</td></tr>
+<tr><td>20000</td><td>5</td></tr>
+<tr><td colspan='2'><img align='left' src='media/bar.png' height='20px' width='34.8351790625%' /><br /><img align='right' src='media/bar.png' height='20px' width='50.7573405112%' /></td></tr>
+<tr><td>19995</td><td>0</td></tr>
+<tr><td colspan='2'>
+De aanvaller heeft gewonnen<br />
+<br />Zweden is nu van thijs (Noorwegen)
+</td></tr>
+</table><br /><br />
+

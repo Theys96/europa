@@ -1,0 +1,2 @@
+<table class="rapport"><tr><td>Aanvaller</td><td>Verdediger</td></tr><tr><td>Belgi&euml;</td><td>Frankrijk</td></tr><tr><td>50000</td><td>1</td></tr><tr><td colspan="2"><img align="left" src="media/bar.png" height="20px" width="86.7%" /><br /><img align="right" src="media/bar.png" height="20px" width="58.1%" /></td></tr><tr><td>49999</td><td>0</td></tr><tr><td colspan="2">De aanvaller heeft gewonnen<br /><br />Frankrijk is nu van thijs (Belgi&euml;)</td></tr></table><br /><br />
+

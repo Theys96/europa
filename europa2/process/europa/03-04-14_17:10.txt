@@ -1,0 +1,84 @@
+<table class='rapport'>
+<tr><td>Aanvaller</td><td>Verdediger</td></tr>
+<tr><td></td><td>Estland</td></tr>
+<tr><td>5000</td><td>0</td></tr>
+<tr><td colspan='2'><img align='left' src='../media/bar.png' height='20px' width='52.1445877136%' /><br /><img align='right' src='../media/bar.png' height='20px' width='14.9832795991%' /></td></tr>
+<tr><td>5000</td><td>0</td></tr>
+<tr><td colspan='2'>
+De aanvaller heeft gewonnen<br />
+<br />Estland is nu van thijs (Rusland)
+</td></tr>
+</table><br /><br />
+
+<table class='rapport'>
+<tr><td>Aanvaller</td><td>Verdediger</td></tr>
+<tr><td></td><td>Letland</td></tr>
+<tr><td>5000</td><td>0</td></tr>
+<tr><td colspan='2'><img align='left' src='../media/bar.png' height='20px' width='109.978171031%' /><br /><img align='right' src='../media/bar.png' height='20px' width='-36.9227063004%' /></td></tr>
+<tr><td>5000</td><td>0</td></tr>
+<tr><td colspan='2'>
+De aanvaller heeft gewonnen<br />
+<br />Letland is nu van thijs (Rusland)
+</td></tr>
+</table><br /><br />
+
+<table class='rapport'>
+<tr><td>Aanvaller</td><td>Verdediger</td></tr>
+<tr><td></td><td>Litouwen</td></tr>
+<tr><td>5000</td><td>0</td></tr>
+<tr><td colspan='2'><img align='left' src='../media/bar.png' height='20px' width='94.7512110327%' /><br /><img align='right' src='../media/bar.png' height='20px' width='24.97124864%' /></td></tr>
+<tr><td>5000</td><td>0</td></tr>
+<tr><td colspan='2'>
+De aanvaller heeft gewonnen<br />
+<br />Litouwen is nu van thijs (Rusland)
+</td></tr>
+</table><br /><br />
+
+<table class='rapport'>
+<tr><td>Aanvaller</td><td>Verdediger</td></tr>
+<tr><td></td><td>Polen</td></tr>
+<tr><td>5000</td><td>10</td></tr>
+<tr><td colspan='2'><img align='left' src='../media/bar.png' height='20px' width='109.978171031%' /><br /><img align='right' src='../media/bar.png' height='20px' width='2.27523224%' /></td></tr>
+<tr><td>4990</td><td>0</td></tr>
+<tr><td colspan='2'>
+De aanvaller heeft gewonnen<br />
+<br />Polen is nu van thijs (Rusland)
+</td></tr>
+</table><br /><br />
+
+<table class='rapport'>
+<tr><td>Aanvaller</td><td>Verdediger</td></tr>
+<tr><td></td><td>Wit-Rusland</td></tr>
+<tr><td>5000</td><td>10</td></tr>
+<tr><td colspan='2'><img align='left' src='../media/bar.png' height='20px' width='54.3246899195%' /><br /><img align='right' src='../media/bar.png' height='20px' width='-8.06910761172%' /></td></tr>
+<tr><td>4989</td><td>0</td></tr>
+<tr><td colspan='2'>
+De aanvaller heeft gewonnen<br />
+<br />Wit-Rusland is nu van thijs (Rusland)
+</td></tr>
+</table><br /><br />
+
+<table class='rapport'>
+<tr><td>Aanvaller</td><td>Verdediger</td></tr>
+<tr><td></td><td>Turkije</td></tr>
+<tr><td>5000</td><td>0</td></tr>
+<tr><td colspan='2'><img align='left' src='../media/bar.png' height='20px' width='62.5970845727%' /><br /><img align='right' src='../media/bar.png' height='20px' width='43.5953956753%' /></td></tr>
+<tr><td>5000</td><td>0</td></tr>
+<tr><td colspan='2'>
+De aanvaller heeft gewonnen<br />
+<br />Turkije is nu van thijs (Rusland)
+</td></tr>
+</table><br /><br />
+
+<table class='rapport'>
+<tr><td>Aanvaller</td><td>Verdediger</td></tr>
+<tr><td></td><td>Georgi&euml;</td></tr>
+<tr><td>5000</td><td>0</td></tr>
+<tr><td colspan='2'><img align='left' src='../media/bar.png' height='20px' width='97.6972849968%' /><br /><img align='right' src='../media/bar.png' height='20px' width='32.5699305349%' /></td></tr>
+<tr><td>5000</td><td>0</td></tr>
+<tr><td colspan='2'>
+De aanvaller heeft gewonnen<br />
+<br />Georgi&euml; is nu van thijs (Rusland)
+</td></tr>
+</table><br /><br />
+
